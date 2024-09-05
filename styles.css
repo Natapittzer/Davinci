@@ -1,0 +1,162 @@
+body {
+    color: rgb(0, 0, 0);
+background-image: url(./imagens/fundo\ da\ vinci.jpg);    
+margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+a {
+    color: rgb(0, 0, blue)
+}
+
+
+iframe {
+    padding-left: 390px;
+
+}
+
+
+.Monalisa {
+display: block;
+margin: auto;
+    width: 25%;
+
+}
+
+.leonardo {
+    width: 300px;
+    padding-left: 520px;
+}
+
+.MONALISA-DOIS {
+    width: 500px;
+
+}
+
+.HOMEN {
+display: block;
+margin: auto;
+    width: 500PX;
+
+}
+
+.CEIA {
+    width: 850PX;
+    margin: auto;
+    display: block;
+
+}
+
+.BEBE {
+    width: 850PX;
+    margin: auto;
+    display: block;
+}
+
+.PARAQUEDAS {
+    width: 850PX;
+    margin: auto;
+    display: block;
+}
+
+.DA-VINCI {
+    font-style: normal;
+    font-size: 40px;
+    border-top: solid 5px black;
+ text-align: center;
+    border-bottom: solid 5px black;
+}
+
+.invencoes {
+    font-style: normal;
+    font-size: 40px;
+    border-top: solid 5px black;
+    padding-left: 400px;
+    border-bottom: solid 5px black;
+
+}
+
+.LEO-DA-VINCI {
+    font-size: 40px;
+    border-top: solid 5px black;
+text-align: center;
+    border-bottom: solid 5px black;
+}
+
+.a-monalisa {
+    border-bottom: solid 5px black;
+    border-top: solid 5px black;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.OBRAS {
+    border-bottom: solid 5px black;
+    border-top: solid 5px black;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.invencoespara {
+    border: solid 5px black;
+    padding: 3px;
+    font-size: 20px;
+}
+
+
+.MONA {
+    width: 500PX;
+    margin: auto;
+    display: block;
+}
+
+.topo {
+
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.topnav {
+    text-align: center;
+}
+
+header {
+    list-style: none;
+}
+
+li a {
+    padding-right: 1.5rem;
+}
+ul {
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: inline-flex;
+}
+
+ul a {
+    text-decoration: none;
+    font-size:  30px;
+    color: black;
+}
+
+ul :hover {
+    text-decoration: underline;
+}
+
+.whatsapp {
+    border-radius: 20%;
+}
+.whatsappsec{
+    display: flex;
+}
+
+.numero {
+    margin: auto;
+    margin-left: 1rem;
+    font-size: 20px;
+}
